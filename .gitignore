@@ -1,0 +1,15 @@
+# Ignore C# build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.csproj.user
+*.cache
+*.log
+
+# Ignore Visual Studio files
+.vscode/
+*.vs/
